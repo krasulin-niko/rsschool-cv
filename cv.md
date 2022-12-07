@@ -39,7 +39,7 @@ return a * b;
 ***
 ### **Courses:**
 - Frecodecamp (in progress)
-- RS Schools Course [«JavaScript/Front-end. Stage 0»](in progress)
+- RS Schools Course [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/) (in progress)
 
 ***
 ### **Languages:**
